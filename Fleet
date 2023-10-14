@@ -1,1 +1,61 @@
+{
+  "fleetdata":[
+    {
+      "busname":"Sclink(TsukiShiro)Streetdeck10650",
+      "number":1,
+      "carplate":"AV 644",
+      "fleetnum":"6200",
+      "depot":"T",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+{
+  "fleetdata":[
+    {
+      "busname":"Sclink(TsukiShiro)Streetdeck10650",
+      "number":2,
+      "carplate":"AV 645",
+      "fleetnum":"6201",
+      "depot":"T",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+{
+  "fleetdata":[
+    {
+      "busname":"Sclink(TsukiShiro)Streetdeck10650",
+      "number":3,
+      "carplate":"AV 646",
+      "fleetnum":"6202",
+      "depot":"T",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+{
+  "fleetdata":[
+    {
+      "busname":"Sclink(TsukiShiro)Streetdeck10650",
+      "number":4,
+      "carplate":"AV 647",
+      "fleetnum":"6203",
+      "depot":"T",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
+{
+  "fleetdata":[
+    {
+      "busname":"Sclink(TsukiShiro)Streetdeck10650",
+      "number":5,
+      "carplate":"AV 648",
+      "fleetnum":"6204",
+      "depot":"T",
+      "leftad":"rbxassetid://",
+      "rightad":"rbxassetid://",
+      "backad":"rbxassetid://"
+    },
 
